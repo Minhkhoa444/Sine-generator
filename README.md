@@ -1,2 +1,2 @@
 # Sine-generator
-Create sine wave based a LUT.
+Create sine wave based on a LUT.
